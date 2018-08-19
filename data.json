@@ -1,0 +1,53 @@
+{
+	"basicdetails":{
+		"image":"baby.jpg",
+	     "name":"G.Thirupathamma",
+         "email":"ganjarapalli1998@gmail.com",
+         "phone":"9550967548",
+         "address":"guntur"
+},
+"education":[
+	{
+		"course":"B.tech(C.S.E)",
+		"college":"Vignan's Nirula Institue Of Technology",
+		"percentage":"70%"
+	},
+	{
+		"course":"Intermediate",
+		"college":"Vj college",
+		"percentage":"79%"
+	},
+	{
+		"course":"ssc",
+		"college":"Auxilium school",
+		"percentage":"93%"
+	}
+
+],
+"skills":[
+{
+	"name":"operating systems",
+    "value":"Windows,Linux,MAC"
+},
+{
+    "name":"Programming Language",
+    "value":"C,C++,Java,Python"
+}
+
+],
+"carrier":{
+	"ca":"I am using my knowledge and skills towards the growth of our organization and i obey the organization rules "
+},
+"Achievements":[
+    "I got first prize in carroms compitation in my college.",
+    "I got first prize in essaywriting in guntur.",
+    "I got second prize in 100mts run in my college."
+
+ ],
+"Description":{
+	"des":"here there by i want to mention that all the above mentioned data are total self details."
+}
+
+
+}
+
